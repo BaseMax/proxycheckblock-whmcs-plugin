@@ -1,12 +1,16 @@
 <?php
-// Max Base
-// https://github.com/BaseMax/proxycheck-whmcs-plugin
+/*
+ * @Name: proxycheckblock-whmcs-plugin
+ * @Author: Max Base
+ * @Repository: https://github.com/BaseMax/proxycheckblock-whmcs-plugin/
+ * @Date: 2020-11-13
+ */
 
-if (!defined('WHMCS')) {
+if(!defined('WHMCS')) {
 	die('This file cannot be accessed directly');
 }
 
-function siavashblock_config() {
+function proxycheckblock_config() {
     $configarray = array(
 		'name' => 'WHMCS ProxyCheckBlock Integration',
 		'version' => '1.0',
