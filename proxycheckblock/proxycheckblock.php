@@ -1,8 +1,8 @@
 <?php
 /*
- * @Name: proxycheck-whmcs-plugin
+ * @Name: proxycheckblock-whmcs-plugin
  * @Author: Max Base
- * @Repository: https://github.com/BaseMax/proxycheck-whmcs-plugin/
+ * @Repository: https://github.com/BaseMax/proxycheckblock-whmcs-plugin/
  * @Date: 2020-11-13
  */
 
