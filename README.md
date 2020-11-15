@@ -15,6 +15,13 @@ Next you can active plugins easily in WHMCS panel.
 
 ![proxycheckblock-whmcs-plugin](demo2.jpg)
 
+### Related Repositories
+
+- https://github.com/proxycheck/proxycheck.io
+- https://proxycheck.io/
+- https://proxycheck.io/examples/
+- https://www.whmcs.com/
+
 #### Acknowledgement
 
 This module is designed for **LcenseMan** with help of Mr. Siavash.
