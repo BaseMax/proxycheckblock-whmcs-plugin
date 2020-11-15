@@ -20,6 +20,8 @@ Next you can active plugins easily in WHMCS panel.
 This module is designed for **LcenseMan** with help of Mr. Siavash.
 Other are also allowed to use it.
 
+Thanks, screenshots were prepared by Siavash.
+
 ---------
 
 # Max Base
