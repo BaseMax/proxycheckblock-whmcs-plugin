@@ -87,8 +87,8 @@ if(proxycheck_function($_SERVER["REMOTE_ADDR"])) {
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width">
-    <meta name="robots" content="noindex,follow">
-  <title><b>Proxy or VPN detected </b><br> Please disable your VPN to Licenseman website and use valid IP :)<br><br>If you believe that you are seeing this message in error please <a href="mailto:'.$proxycheck_emai.'" target="_blank">contact to admin</a></title>
+  <meta name="robots" content="noindex,follow">
+  <title>Error: Proxy or VPN detected</title>
   <style type="text/css">
     html {
       background: #f1f1f1;
