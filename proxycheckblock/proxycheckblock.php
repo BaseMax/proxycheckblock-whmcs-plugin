@@ -74,6 +74,6 @@ function proxycheck_function($Visitor_IP) {
 }
 
 if(proxycheck_function($_SERVER["REMOTE_ADDR"])) {
-  echo "<h3>It appears you're a Proxy / VPN / bad IP, please contact [admin[@]licenseman.net] for more information. <br />"; 
+  echo "<h3>It appears you're a Proxy / VPN / bad IP, please contact [admin[@]YOUR_WEBSITE_SUPPORT] for more information. <br />"; 
   exit();
 }
