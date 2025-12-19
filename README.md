@@ -25,13 +25,6 @@ Next you can active plugins easily in WHMCS panel.
 - https://proxycheck.io/examples/
 - https://www.whmcs.com/
 
-#### Acknowledgement
-
-This module is designed for **LcenseMan** with help of Mr. Siavash.
-Other are also allowed to use it.
-
-Thanks, screenshots were prepared by Siavash.
-
 ---------
 
 # Max Base
