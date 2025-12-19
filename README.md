@@ -2,8 +2,6 @@
 
 A simple WHMCS hook that checks if the client is using a proxy/VPN.
 
-![proxycheckblock-whmcs-plugin](demo3.jpg)
-
 ### Using proxycheckblock
 
 Upload `proxycheckblock` into **WHMCS** `modules/addons` directory.
@@ -30,9 +28,3 @@ Next you can active plugins easily in WHMCS panel.
 # Max Base
 
 My nickname is Max, Programming language developer, Full-stack programmer. I love computer scientists, researchers, and compilers.
-
-## Asrez Team
-
-A team includes some programmer, developer, designer, researcher(s) especially Max Base.
-
-[Asrez Team](https://www.asrez.com/)
