@@ -6,8 +6,8 @@
  * @Date: 2020-11-13
  */
 
-$proxycheck_name = "LcenseMan"; // CHANGE THIS
-$proxycheck_emai = "admin@licenseman.net"; // CHANGE THIS
+$proxycheck_name = "Test"; // CHANGE THIS
+$proxycheck_emai = "admin@test.net"; // CHANGE THIS
 
 /*
 * A PHP Function which checks if the IP Address specified is a Proxy Server utilising the API provided by https://proxycheck.io
